@@ -5,7 +5,7 @@ intervaller.
 
 libraries som må lastes ned i forkant.
   
-  geopy - https://pypi.org/project/geopy/
+  \ngeopy - https://pypi.org/project/geopy/
   
   request -https://pypi.org/project/requests/
 
