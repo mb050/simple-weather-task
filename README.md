@@ -8,6 +8,7 @@ intervaller.
   - [request](https://pypi.org/project/requests/)
 
 resten av librarier som er brukt er standard libraries og er ikke nødvendig å laste ned.
+
 værdata.py og utility.py må være i samme mappe, og forbindelse
 til internett er også nødvendig. koden kjøres fra værdata.py
 og instrukser blir gitt underveis.
