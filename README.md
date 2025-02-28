@@ -13,6 +13,7 @@ og instrukser blir gitt underveis.
 
 ### Formatene:
 Det er to primære formater en kan velge mellom, og et tredje alternativ som bygger på de primære formatene.
+
 **enekel:**
 
 Gir temperaturen time for time fra kl 00:00 til kl 23:00 for den påfølgende dagen.
@@ -31,4 +32,31 @@ hver av intervallene vil gi følgende informasjon, min og maks temperatur og gje
 **ekstra:**
 
 dette formatet bruker enten *enkel* eller *periode*, men vil ikke nødvendighvis gi temperatur, og min maks for *periode*.
+man får mulighet til å velge en rekke variabler som blir presentert på tilsvarende vis som det valgte formatet.
+variablene som kan velges er som følger:
+  - air_pressure_at_sea_level
+  - air_temperature
+  - air_temperature_max
+  - air_temperature_min
+  - air_temperature_percentile_10
+  - air_temperature_percentile_90
+  - cloud_area_fraction
+  - cloud_area_fraction_high
+  - cloud_area_fraction_low
+  - cloud_area_fraction_medium
+  - dew_point_temperature
+  - fog_area_fraction
+  - precipitation_amount
+  - precipitation_amount_max
+  - precipitation_amount_min
+  - probability_of_precipitation
+  - probability_of_thunder
+  - relative_humidity
+  - ultraviolet_index_clear_sky
+  - wind_from_direction
+  - wind_speed
+  - wind_speed_of_gust
+  - wind_speed_percentile_10
+  - wind_speed_percentile_90
+
 
