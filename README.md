@@ -12,7 +12,7 @@ til internett er også nødvendig. koden kjøres fra værdata.py
 og instrukser blir gitt underveis. 
 
 ### Formatene:
-- enkel
+*- enkel*
 
 viser
   
