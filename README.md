@@ -28,6 +28,7 @@ Disse intervallene er som følger:
   - fra **tidspunkt_1** til **tidspunkt_2**
   - fra **tidspunkt_2** til kl 18:00
   - fra kl 18:00 til kl 00:00.
+
 hver av intervallene vil gi følgende informasjon, min og maks temperatur og gjennomsnitt temperatur.
 
 **ekstra:**
