@@ -4,10 +4,8 @@ time for time, eller de neste to påfølgende dagene fordelt på fire
 intervaller. 
 
 libraries som må lastes ned i forkant.
-  
--[geopy](https://pypi.org/project/geopy/)
-  
--[request](https://pypi.org/project/requests/)
+  -[geopy](https://pypi.org/project/geopy/)
+  -[request](https://pypi.org/project/requests/)
 
 
 værdata.py og utility.py må være i samme mappe, og forbindelse
