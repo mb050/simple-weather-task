@@ -22,6 +22,7 @@ Gir temperaturen time for time fra kl 00:00 til kl 23:00 for den påfølgende da
 
 går over de neste to påfølgende dagene, og gir gjennomsnitt temperatur for begge dagene. 
 Brukeren blir spurt om å gi to tidspunkter og dagene blir delt inn i fire mindre intervaller.
+
 Disse intervallene er som følger:
   - fra kl 00:00 til **tidspunkt_1**
   - fra **tidspunkt_1** til **tidspunkt_2**
@@ -33,6 +34,7 @@ hver av intervallene vil gi følgende informasjon, min og maks temperatur og gje
 
 dette formatet bruker enten *enkel* eller *periode*, men vil ikke nødvendighvis gi temperatur, og min maks for *periode*.
 man får mulighet til å velge en rekke variabler som blir presentert på tilsvarende vis som det valgte formatet.
+
 variablene som kan velges er som følger:
   - air_pressure_at_sea_level
   - air_temperature
