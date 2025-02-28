@@ -7,9 +7,10 @@ intervaller.
   - [geopy](https://pypi.org/project/geopy/)
   - [request](https://pypi.org/project/requests/)
 
+resten av librarier som er brukt er standard libraries og er ikke nødvendig å laste ned.
 værdata.py og utility.py må være i samme mappe, og forbindelse
 til internett er også nødvendig. koden kjøres fra værdata.py
-og instrukser blir gitt underveis. 
+og instrukser blir gitt underveis.
 
 ### Formatene:
 Det er to primære formater en kan velge mellom, og et tredje alternativ som bygger på de primære formatene.
